@@ -1,4 +1,5 @@
 from typing import List, Tuple
+from main2 import parse_data
 
 Instruction = Tuple[int, int, int]
 
